@@ -19,4 +19,7 @@ https://github.com/1ncarnati0n/RhinoGrasshopperPython/assets/84266929/b0c5a578-a
 
 <br>
 
-### ** **
+### **Exploding Brick Wall**
+<p align='center'><img src="assets/E_24.png" width="920"></p>
+
+<br>
