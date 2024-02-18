@@ -15,7 +15,7 @@ https://github.com/1ncarnati0n/RhinoGrasshopperPython/assets/84266929/c233d7fa-5
 ### **Wind-swept Grass Pathch**
 <p align='center'><img src="assets/E_22.png" width="920"></p>
 
-https://github.com/1ncarnati0n/RhinoGrasshopperPython/assets/84266929/fd5f5db0-61d6-4c45-9278-15676109b29f
+https://github.com/1ncarnati0n/RhinoGrasshopperPython/assets/84266929/cb9e3081-938a-493a-8cfd-7254fa9a598d
 
 <br>
 
